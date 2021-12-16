@@ -1,2 +1,5 @@
 # calculador_volumen_tablas_surf
-Calculador de volumen para tablas de surf.
+Existen dos formas de subir el módulo a tu prestashop:
+1. Comprimir en .zip e instalar desde el administrador de prestashop
+2. Subir la carpeta via FTP al directorio /modules
+
