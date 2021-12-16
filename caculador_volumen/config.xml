@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>caculador_volumen</name>
+	<displayName><![CDATA[Calculador volumen watsay]]></displayName>
+	<version><![CDATA[1.1.1]]></version>
+	<description><![CDATA[Modulo para calcular el volumen en litros recomendado para una persona]]></description>
+	<author><![CDATA[Alberto Gonzalez]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
